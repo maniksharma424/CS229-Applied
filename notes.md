@@ -2,6 +2,7 @@
 Problem Statement:
 You're working for a real estate startup. You need to build a model that can predict house prices based on features like:
 
+
 Number of bedrooms
 
 Square footage
